@@ -4,4 +4,7 @@ title: About
 permalink: /about/
 ---
 
-WIP
+I am currently working on this ⛏️⛏️⛏️
+
+Meanwhile, feel free to loose yourself in my eyes
+![workingzdenecek](Images\workingonit.jpg)
