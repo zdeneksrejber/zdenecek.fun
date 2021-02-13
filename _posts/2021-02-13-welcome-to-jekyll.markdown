@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Welcome to splace of mediocre madness!"
+title:  "Call for brave individuals!"
 date:   2021-02-13 13:03:57 +0100
-categories: introduction
+categories: Introduction, Individualism, Social Life, Adventure
 ---
 
 # Call for brave individuals! 
 
-First post, eh! I hope it is as lame and bad as the rest of the web.
+First post, eh! Welcome to space and place of mediocre madness!.
 
 Times are challenging and so is grammar, and as a social creature, you need other creatures around. Well, today is your lucky day, I am a creature too. Although still young, I have been through some stories and adventures already, yet I might have something to share, or not. IT DEPENDS. What I am curious about is you.
 
