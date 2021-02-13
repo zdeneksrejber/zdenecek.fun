@@ -1,29 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to splace of mediocre madness!"
 date:   2021-02-13 13:03:57 +0100
-categories: jekyll update
+categories: introduction
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# Call for brave individuals! 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+First post, eh! I hope it is as lame and bad as the rest of the web.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Times are challenging and so is grammar, and as a social creature, you need other creatures around. Well, today is your lucky day, I am a creature too. Although still young, I have been through some stories and adventures already, yet I might have something to share, or not. IT DEPENDS. What I am curious about is you.
 
-Jekyll also offers powerful support for code snippets:
+## Didn't loose interest yet?
+Then, feel free to reach out to me, we will have a lovely date dinner while we discuss meaning of live and Avs on their way for cup.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+If you wish to discuss other topics, go on an adventure, or have any other wish or need, please include points below when getting in touch.
+-  Your full name
+-  General nature of request
+-  Detailed description
+   - use your own words
+   - be brief, yet descriptive
+   - focus on topic, but have a big picture
+   - do not write this part if hungry
+   - assume I know nothing
+-  Preferred way of communication (verbal/non-verbal)
+-  Favorite animal and why you picked doggos
+-  Why you chose me?
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+You might find this odd, but I am not mad. Truth to be told though, there wasn't any test done to support such a claim.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Oh, and Im a good chef, so lets cook.
