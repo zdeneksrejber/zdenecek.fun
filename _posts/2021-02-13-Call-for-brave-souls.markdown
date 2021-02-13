@@ -13,8 +13,6 @@ Times are challenging and so is grammar, and as a social creature, you need othe
 
 ## Didn't loose interest yet?
 
-![thumbup](..\Images\Memes\thumbup.gif)
-
 Then, feel free to reach out to me, we will have a lovely date dinner while we discuss meaning of live and Avs on their way for cup.
 
 If you wish to discuss other topics, go on an adventure, or have any other wish or need, please include points below when getting in touch.
